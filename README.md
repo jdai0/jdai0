@@ -2,5 +2,6 @@
 
 - 🔭 I’m currently working on machine laerning and recommender systems
 - 🌱 I’m currently learning software programming
-- 📫 Email: j5dai@ucsd.edu
+- 📫 Email: jd4136@columbia.edu
+  
 - 😄 Pronouns: He/Him
